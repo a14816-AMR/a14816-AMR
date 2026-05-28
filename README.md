@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a junior and student DEV trying to improve my skills every day. Always Having project ideas to make our daily lives better and better.
-
+---
 <h5>
 In software languages i have skills for:
 </h5>
