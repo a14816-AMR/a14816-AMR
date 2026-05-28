@@ -2,8 +2,9 @@
 
 I'm a junior and student DEV trying to improve my skills every day. Always Having project ideas to make our daily lives better and better.
 
-<h3>
+<h5>
 In software languages i have skills for:
+</h5>
   <ul>
     <li> Algoritmos	</li>
     <li> Estruturas de dados	</li>
@@ -15,4 +16,4 @@ In software languages i have skills for:
   </ul>  
   
   
-</h3>
+
