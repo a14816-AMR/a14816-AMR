@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**a14816-AMR/a14816-AMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior and student DEV trying to improve my skills every day. Always Having project ideas to make our daily lives better and better.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+In software languages i have skills for:
+  => Algoritmos	
+  => Estruturas de dados	
+  => Princípios metodológicos de programação
+  => Programação em C/C++ - fundamentos	
+  => Programação em C/C++ - avançada
+  => Programação de sistemas distribuídos 
+  => Desenvolvimento de aplicações web em JAVA
+</h2>
