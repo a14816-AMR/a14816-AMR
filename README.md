@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-I'm a junior and student DEV trying to improve my skills every day. Always Having project ideas to make our daily lives better and better.
-----
-<h5>
+<p>I'm a junior and student DEV trying to improve my skills every day. Always Having project ideas to make our daily lives better and better, praticing everyday and learning different areas on technology.</p>
+---
+
+<
+
+
+<h3>
 In software languages i have skills for:
-</h5>
+</h3>
   <ul>
     <li> Algorithms </li>
     <li> Data Structures </li>
