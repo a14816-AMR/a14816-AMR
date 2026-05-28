@@ -6,13 +6,13 @@ I'm a junior and student DEV trying to improve my skills every day. Always Havin
 In software languages i have skills for:
 </h5>
   <ul>
-    <li> Algoritmos	</li>
-    <li> Estruturas de dados	</li>
-    <li> Princípios metodológicos de programação</li>
-    <li> Programação em C/C++ - fundamentos	</li>
-    <li> Programação em C/C++ - avançada</li>
-    <li> Programação de sistemas distribuídos </li>
-    <li> Desenvolvimento de aplicações web em JAVA </li>
+    <li> Algorithms </li>
+    <li> Data Structures </li>
+    <li> Methodological Principles of Programming </li>
+    <li> Programming in C/C++ - Fundamentals </li>
+    <li> Programming in C/C++ - Advanced </li>
+    <li> Programming of Distributed Systems </li>
+    <li> Web Application Development in JAVA </li>
   </ul>  
   
   
