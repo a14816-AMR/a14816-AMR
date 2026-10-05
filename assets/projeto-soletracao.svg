@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="180" viewBox="0 0 270 180" role="img" aria-label="Jogo de soletração gestual">
+<style>
+.t{font:600 15px -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#e6edf3}
+.d{font:12.5px -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#8b949e}
+.b{font:11px ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;fill:#8b949e}
+.l{font:12px ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;fill:#58a6ff}
+.h{font:600 20px -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#e6edf3}
+.n{font:14px ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;fill:#6e7681}
+.i{font:15px -apple-system,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#c9d1d9}
+.k{font:14px ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;fill:#7ee787}
+.p{font:12px ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;fill:#8b949e}
+</style>
+<rect x=".5" y=".5" width="269" height="179" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="16" y="30" class="t">Jogo de soletração gestual</text>
+<text x="16" y="54" class="d">Jogo baseado no popular “Termo”,</text>
+<text x="16" y="72" class="d">adaptado para a Língua Gestual.</text>
+<rect x="16" y="124" width="81" height="20" rx="5" fill="#21262d"/><text x="23" y="138" class="b">JavaScript</text>
+<rect x="103.0" y="124" width="48" height="20" rx="5" fill="#21262d"/><text x="110.0" y="138" class="b">React</text>
+<text x="16" y="162" class="l">▶ jogar demo ↗</text>
+</svg>
