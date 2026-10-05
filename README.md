@@ -15,10 +15,10 @@ Sou estudante do 11.º ano do curso de Programador de Informática, curioso e de
 🎓 **Curso Profissional de Programador de Informática** · `2025 — 2028`<br>
 Oficina — Escola Profissional · 11.º ano (a frequentar)
 
-- 🏅 **Prémio de Mérito Escolar** · Santo Tirso · `2026`
-- 💼 Mini estágio · Oficina · `2025`
-- 📣 Evento de divulgação da oferta formativa · Oficina · `2026`
-- 🤝 Voluntário no dia aberto · Oficina · `2026`
+- **Prémio de Mérito Escolar** · Santo Tirso · `2026`
+- Mini estágio · Oficina · `2025`
+- Evento de divulgação da oferta formativa · Oficina · `2026`
+- Voluntário no dia aberto · Oficina · `2026`
 
 ### `03 ·` stack
 
@@ -55,20 +55,20 @@ Oficina — Escola Profissional · 11.º ano (a frequentar)
 
 ### `05 ·` soft skills
 
-✓ curiosidade<br>
-✓ comunicação<br>
-✓ vontade de aprender<br>
-✓ resolução de problemas<br>
-✓ organização
+- curiosidade<br>
+- comunicação<br>
+- vontade de aprender<br>
+- resolução de problemas<br>
+- organização
 
 </td>
     <td width="50%" valign="top">
 
 ### `06 ·` idiomas
 
-🇵🇹 português · `nativo`<br>
-🇬🇧 inglês · `B2`<br>
-🇫🇷 francês · `A2`
+português · `nativo`<br>
+inglês · `B2`<br>
+francês · `A2`
 
 </td>
   </tr>
