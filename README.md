@@ -12,7 +12,7 @@ Sou estudante do 11.º ano do curso de Programador de Informática, curioso e de
 
 ### `02 ·` formação e destaques
 
-🎓 **Curso Profissional de Programador de Informática** · `2025 — 2028`<br>
+**Curso Profissional de Programador de Informática** · `2025 — 2028`<br>
 Oficina — Escola Profissional · 11.º ano (a frequentar)
 
 - **Prémio de Mérito Escolar** · Santo Tirso · `2026`
