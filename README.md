@@ -15,10 +15,10 @@ Sou estudante do 11.º ano do curso de Programador de Informática, curioso e de
 🎓 **Curso Profissional de Programador de Informática** · `2025 — 2028`<br>
 Oficina — Escola Profissional · 11.º ano (a frequentar)
 
-- 🏅 **Prémio de Mérito Escolar** · Santo Tirso · `2026`
-- 💼 Mini estágio · Oficina · `2025`
-- 📣 Evento de divulgação da oferta formativa · Oficina · `2026`
-- 🤝 Voluntário no dia aberto · Oficina · `2026`
+- **Prémio de Mérito Escolar** · Santo Tirso · `2026`
+- Mini estágio · Oficina · `2025`
+- Evento de divulgação da oferta formativa · Oficina · `2026`
+- Voluntário no dia aberto · Oficina · `2026`
 
 ### `03 ·` stack
 
