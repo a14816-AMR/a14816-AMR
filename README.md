@@ -2,14 +2,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/andr%C3%A9-marques-rizzon-028905399/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:a14816@oficina.pt"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:a14816@oficina.pt"><img src="https://img.shields.io/badge/a14816@oficina.pt-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Santo_Tirso,_PT-21262D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Santo Tirso, Portugal">
 </p>
 
 ### `01 ·` sobre mim
 
-Estudante do 11.º ano de Programador de Informática em Santo Tirso. Gosto sobretudo de **visão computacional no browser**: projetos que usam a câmara para reconhecer gestos, rostos e objetos em tempo real. Aprendo construindo coisas que outras pessoas conseguem experimentar, e a maior parte dos meus projetos tem uma demo online.
-
-Neste momento estou a aprender **React** e a melhorar a forma como estruturo projetos em **Node.js**.
+Sou estudante do 11.º ano do curso de Programador de Informática, curioso e dedicado, com gosto por criar soluções práticas com código. Interesso-me por front-end, back-end e inteligência artificial.
 
 ### `02 ·` formação e destaques
 
@@ -18,44 +17,59 @@ Oficina — Escola Profissional · 11.º ano (a frequentar)
 
 - **Prémio de Mérito Escolar** · Santo Tirso · `2026`
 - Mini estágio · Oficina · `2025`
-- Divulgação da oferta formativa e voluntário no dia aberto · Oficina · `2026`
+- Evento de divulgação da oferta formativa · Oficina · `2026`
+- Voluntário no dia aberto · Oficina · `2026`
 
 ### `03 ·` stack
 
-**Uso nos meus projetos**<br>
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,supabase&theme=dark" alt="JavaScript, HTML, CSS, Node.js, Express, Supabase">
-
-**Aprendi nas aulas**<br>
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,postgres&theme=dark" alt="Java, C++, C#, Python, PostgreSQL">
-
-**Ferramentas**<br>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,vercel&theme=dark" alt="VS Code, Visual Studio, Git, GitHub, Figma, Vercel">
+<img src="./assets/stack.svg" alt="Linguagens: Java, C++, JavaScript, Python, C#, PostgreSQL. Frameworks: React, Node.js, .NET. Ferramentas: VS Code, Visual Studio, GitHub, Figma, Notion, Claude, ChatGPT, Gemini.">
 
 ### `04 ·` projetos em destaque
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>LGP Palavras</b><br>
-      <sub>Jogo ao estilo “Termo” em que se soletra com a <b>Língua Gestual Portuguesa</b>. A câmara reconhece os gestos em tempo real.</sub><br><br>
-      <code>JavaScript</code> <code>MediaPipe</code> <code>Node.js</code><br><br>
+      <b>Jogo de soletração gestual</b><br>
+      <sub>Jogo baseado no popular “Termo”, adaptado para a Língua Gestual.</sub><br><br>
+      <code>JavaScript</code> <code>React</code><br><br>
       <a href="https://oficina-tremo.vercel.app">demo ↗</a> · <a href="https://github.com/a14816-AMR/Oficina-Tremo">código</a>
     </td>
     <td width="33%" valign="top">
-      <b>Identificação de objetos</b><br>
-      <sub>Envias uma fotografia e a aplicação identifica e descreve os objetos com a API do Gemini.</sub><br><br>
-      <code>Node.js</code> <code>Express</code> <code>Gemini API</code><br><br>
+      <b>WebApp de identificação de objetos</b><br>
+      <sub>Aplicação web de reconhecimento e identificação visual de objetos.</sub><br><br>
+      <code>JavaScript</code> <code>HTML/CSS</code><br><br>
       <a href="https://object-identification-tan.vercel.app">demo ↗</a> · <a href="https://github.com/a14816-AMR/Identificacao_de_Objeto">código</a>
     </td>
     <td width="33%" valign="top">
       <b>Reconhecimento facial</b><br>
-      <sub>Protótipo de login por reconhecimento facial: deteta o rosto e compara-o com os registos guardados.</sub><br><br>
-      <code>face-api.js</code> <code>Express</code> <code>Supabase</code><br><br>
+      <sub>Ferramenta web de autenticação e segurança biométrica com modelos de reconhecimento facial.</sub><br><br>
+      <code>JavaScript</code> <code>HTML</code><br><br>
       <a href="https://github.com/a14816-AMR/oficina-reconhecimento-facial-nodejs">código</a>
     </td>
   </tr>
 </table>
 
-### `05 ·` idiomas
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-português · `nativo` &nbsp;·&nbsp; inglês · `B2` &nbsp;·&nbsp; francês · `A2`
+### `05 ·` soft skills
+
+- curiosidade<br>
+- comunicação<br>
+- vontade de aprender<br>
+- resolução de problemas<br>
+- organização
+
+</td>
+    <td width="50%" valign="top">
+
+### `06 ·` idiomas
+
+português · `nativo`<br>
+inglês · `B2`<br>
+francês · `A2`
+
+</td>
+  </tr>
+</table>
